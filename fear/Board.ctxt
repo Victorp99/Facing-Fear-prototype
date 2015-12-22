@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment1.params=
+comment1.target=void\ addNotify()
+comment2.params=
+comment2.target=void\ initEnemies()
+comment3.params=
+comment3.target=void\ initPowerUp()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ checkCollisions()
+numComments=7
