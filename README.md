@@ -1,6 +1,6 @@
 # Facing-Fear-prototype
 This is a prototype for a game named Facing Fear that was later fully developed in Construct 2. 
-This prototype helped me practice object-oriented style programming and was used to show some basic mechanics of the game, like 
+This prototype helped me practice object-oriented style programming and was used to show some basic mechanics of the game like 
 shooting, moving, and health pickups.
 
 How To Play:
